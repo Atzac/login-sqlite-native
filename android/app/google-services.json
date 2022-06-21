@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "168109197632",
+    "firebase_url": "https://ativ-herlon-db-default-rtdb.firebaseio.com",
+    "project_id": "ativ-herlon-db",
+    "storage_bucket": "ativ-herlon-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168109197632:android:c466df9108e728b65352a5",
+        "android_client_info": {
+          "package_name": "com.ativherlon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168109197632-dbh7i8s69ktl65pim7rprmpajqdf2i2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn9WZ1lJG9naekh-maKTHzweaNzNb1GTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168109197632-dbh7i8s69ktl65pim7rprmpajqdf2i2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

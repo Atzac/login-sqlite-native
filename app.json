@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ativ-herlon",
+    "slug": "ativ-herlon",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ativ-herlon"
+}
